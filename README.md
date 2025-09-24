@@ -1,9 +1,9 @@
 # Hệ thống điểm danh và mở cửa
-Bộ khóa thông minh Vân tay, PIN với cảnh báo” tích hợp điểm danh là một hệ thống khóa điện tử hiện đại, kết hợp công nghệ quét vân tay và mật mã PIN để tăng cường bảo mật. Ngoài ra, hệ thống được tích hợp cơ chế cảnh báo khi phát hiện truy cập trái phép, giúp đảm bảo an toàn cho công ty và văn phòng. 
+Bộ phần cứng điểm danh và mở cửa bằng vân tay hoặc nhập mã từ bàn phím giá rẻ.  
 # Khóa cửa thông minh với quét vân tay, PIN & Cảnh báo
 
 ## Tổng quan dự án
-Dự án này phát triển một **hệ thống khóa cửa thông minh** kết hợp giữa **quét vân tay** và **mã PIN** để xác thực, đồng thời tích hợp **cơ chế cảnh báo** nhằm tăng cường mức độ an ninh.  
+Dự án này phát triển một **hệ thống điểm danh thông minh** kết hợp giữa **quét vân tay** và **mã PIN** để xác thực, đồng thời tích hợp **cơ chế cảnh báo** nhằm tăng cường mức độ an ninh.  
 Mục tiêu là tạo ra một giải pháp kiểm soát ra vào **đáng tin cậy, hiện đại và thân thiện với người dùng**, phù hợp cho gia đình và văn phòng.
 
 ---
